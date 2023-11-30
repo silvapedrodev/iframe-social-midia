@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;0,700;0,800;1,800&display=swap');
+
+:root {
+  font-size: 65.2%;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: 'Open Sans', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+img {
+  width: 100vw;
+}
+
+a {
+  display: block;
+  background-color: black;
+ 
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 2rem;
+}
+
+
+.acesse {
+  display: flex;
+  width: 100vw;
+  background-color: black;
+
+  margin-top: -3px;
+  justify-content: center;
+}
+
+button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 10rem;
+  height: 4rem;
+  border: none;
+}
+
+button:hover {
+  transform: scale(1.1);
+  transition: 300ms;
+}
+
+
+#tiktok{
+  width: 12rem;
+  height: 4rem;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  color: black;
+  
+  background: white;
+  border: none;
+  border-radius: 100px;
+  filter: drop-shadow(-5px -5px #00f8e9);
+  box-shadow: 5px 5px #f72b50;
+}
+
+#tiktok img{
+ width: 1.5rem;
+}
+
+#tiktok:hover {
+  color: white;
+  background: black;
+}
+
+#pin{
+  font-size: 2rem;
+  font-weight: bolder;
+  color: white;
+  
+  
+  background-color: #FF0020;
+  border-radius: 3rem;
+  padding: 2rem;
+  
+}
+
+#pin:hover {
+  background: #8a0114;
+}
+
+#zedge, #stickerly, #github {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  border-radius: 4rem;
+  background-color: #783DB0;
+}
+
+#zedge:hover {
+  background-color: #512a75;
+}
+
+#stickerly {
+  background-color: #156FFF;
+}
+
+#stickerly:hover {
+  background-color: #114dad;
+}
+
+#github {
+  background-color: #26A641;
+}
+
+#github:hover {
+  background-color: #006D32;
+}
