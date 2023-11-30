@@ -91,3 +91,24 @@ main {
   transform: translate(-5px, -3px);
   transition: 110ms;
 }
+
+@media (max-width: 380px) {
+  
+
+ main {
+  scale: 0.7;
+ }
+
+ #social {
+  width: 2rem;
+
+  padding-top: 10rem;
+ }
+
+}
+
+@media (max-width: 400px) {
+  #social {
+    width: 45rem;
+  }
+}
