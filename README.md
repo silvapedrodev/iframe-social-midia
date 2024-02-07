@@ -17,7 +17,7 @@
  <br>
 
 # 💻 Layout Desktop | 📱 Layout mobile
-[![print](https://github.com/killera12/Analisador_Numeros/blob/main/assets/print.png?raw=true)](https://killera12.github.io/Analisador_Numeros/)
+[![print](https://github.com/silvapedrodev/iframe-social-midia/blob/main/assets/print.png?raw=true)](https://silvapedrodev.github.io/iframe-social-midia/)
 
 - <a href="https://silvapedrodev.github.io/iframe-social-midia/" target="_blank"><strong>Click Here</strong> &#x1F517;</a>
 
